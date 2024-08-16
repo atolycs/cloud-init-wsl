@@ -8,6 +8,7 @@ packages:
   - build-essential
   - iperf3
   - gnupg
+  - wslu
 
 final_message: |
   cloud-init has finished.
