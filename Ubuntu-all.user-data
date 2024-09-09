@@ -8,6 +8,8 @@ packages:
   - build-essential
   - iperf3
   - gnupg
+  - traceroute
+  - neovim
 
 final_message: |
   cloud-init has finished.
