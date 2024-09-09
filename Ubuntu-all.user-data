@@ -10,6 +10,7 @@ packages:
   - gnupg
   - traceroute
   - neovim
+  - wslu
 
 final_message: |
   cloud-init has finished.
