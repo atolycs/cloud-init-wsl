@@ -22,9 +22,6 @@ final_message: |
 
 write_files:
   - content: |
-      [boot]
-      systemd=true
-
       [network]
       hostname = "ubuntu-raiden"
     path: /etc/wsl.conf
