@@ -9,7 +9,6 @@ packages:
   - iperf3
   - gnupg
   - traceroute
-  - neovim
   - wslu
 
 final_message: |
