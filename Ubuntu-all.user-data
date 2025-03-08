@@ -23,6 +23,6 @@ final_message: |
 write_files:
   - content: |
       [network]
-      hostname = "ubuntu-raiden"
+      hostname = "ubuntu-x201elf"
     path: /etc/wsl.conf
     append: true
